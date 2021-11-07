@@ -1,6 +1,6 @@
 # 123
 
-```bash
-node
+```JavaScript
+alert('9685324');
 ```
 ## oireohgo
