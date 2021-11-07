@@ -9,6 +9,7 @@
 ```JavaScript
 function spam(arg) {
   console.log(arg);
+  spam(arg);
 };
 spam('spam');
 ```
