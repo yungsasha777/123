@@ -1,6 +1,6 @@
 # 123
 
 ```bash
-node server.js
+npm install
 ```
 ## oireohgo
