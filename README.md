@@ -1,6 +1,6 @@
 # 123
 
 ```bash
-npm install
+node
 ```
 ## oireohgo
