@@ -19,6 +19,7 @@ img {
 
 ul {
     background-color: black;
+    border: 5px black solid;
     text-align: left;
     width: 100px;
 }
