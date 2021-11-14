@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(45deg, #000077, #000011)
+}
+
+h1, h3, li {
+    color: white;
+    opacity: 0.8;
+    font-family: monospace;
+}
+
+img {
+    max-height: 100px;
+}
+
+ul {
+    background-color: black;
+    text-align: left;
+    width: 100px;
+}
